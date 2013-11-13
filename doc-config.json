@@ -1,0 +1,4 @@
+{
+    "source":    {"include": ["ErrorTracker.js", "README.md"]},
+    "opts":      {"destination": "./doc/"}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ErrorTracker",
+  "version": "0.1.0",
+  "decription": "A library to track untrapped errors in your application",
+  "devDependencies": {
+    "jsdoc": "3.3.0-alpha2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "browser",
+    "error"
+  ],
+  "author": {
+    "name": "Stephen Belcher",
+    "email": "sbelcher@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sycobuny/ErrorTracker.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sycobuny/ErrorTracker.js.git"
+  }
+}
